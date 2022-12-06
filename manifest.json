@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Andi Search",
+  "name": "Andi",
   "version": "1.0",
-  "description": "Change the default search engine to Andi Search",
+  "description": "Change the default search engine to Andi",
   
   
   "permissions": ["activeTab", "tabs", "storage"],
