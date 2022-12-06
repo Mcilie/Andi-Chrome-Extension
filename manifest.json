@@ -1,15 +1,10 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "Andi Search",
   "version": "1.0",
   "description": "Change the default search engine to Andi Search",
-  "web_accessible_resources": [
-    "images/*.png",
-    "iamges/*.ico"
-  ],
-  "background": {
-    "scripts": ["background.js"]
-  },
+  
+  
   "permissions": ["activeTab", "tabs", "storage"],
   "chrome_settings_overrides": {
     "search_provider": {
