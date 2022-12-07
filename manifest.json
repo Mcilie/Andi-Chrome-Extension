@@ -3,9 +3,14 @@
   "name": "Andi",
   "version": "1.0",
   "description": "Change the default search engine to Andi",
+  "icons": {
+    "16": "andi16.png",
+    "32": "andi32.png",
+    "48": "andi48.png",
+    "128": "andi128.png"
+   },
   
   
-  "permissions": ["activeTab", "tabs", "storage"],
   "chrome_settings_overrides": {
     "search_provider": {
       "name": "Andi Search",
