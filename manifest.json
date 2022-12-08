@@ -15,7 +15,7 @@
     "search_provider": {
       "name": "Andi Search",
       "keyword": "andisearch",
-      "search_url": "https://andisearch.com/nav/?query={searchTerms}",
+      "search_url": "https://andisearch.com/?query={searchTerms}",
       "favicon_url": "https://andisearch.com/favicon.ico",
       "encoding": "UTF-8",
       "is_default":true
